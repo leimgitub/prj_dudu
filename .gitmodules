@@ -1,0 +1,3 @@
+[submodule "lib_dudu"]
+	path = lib_dudu
+	url = https://github.com/leimgitub/lib_dudu.git
